@@ -1,7 +1,7 @@
 # 👋 Hi I'm a Data Scientist & Python Developer
 
 <!-- Profile Banner -->
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E03AQGM2ka7Vho8qw/profile-displayphoto-shrink_800_800/B4EZT05IwfG0Ac-/0/1739275407308?e=1744848000&v=beta&t=rSHzcdfLUNeZw8lkyqzDRMfwmxqAtPC5VBNIJX0RGLA)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E03AQGM2ka7Vho8qw/profile-displayphoto-shrink_300_300/B4EZT05IwfG0Ac-/0/1739275407308?e=1744848000&v=beta&t=rSHzcdfLUNeZw8lkyqzDRMfwmxqAtPC5VBNIJX0RGLA)
 
 I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
 
