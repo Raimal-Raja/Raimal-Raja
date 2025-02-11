@@ -1,5 +1,8 @@
 # 👋 Hi I'm a Data Scientist & Python Developer
 
+<!-- Profile Banner -->
+![Profile Banner](https://your-image-hosting-url.com/banner.png)
+
 I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
 
 ## 🔧 Technologies & Tools
@@ -9,6 +12,7 @@ I'm passionate about transforming data into actionable insights and building rob
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -40,7 +44,7 @@ I'm passionate about transforming data into actionable insights and building rob
 - **Machine Learning**: Experience with scikit-learn for predictive modeling and pattern recognition
 - **Backend Development**: Building scalable applications with Django
 - **Database Design**: Strong foundation in database architecture and optimization
-- **Algorithms & Data Structures**: Deep understanding of computational efficiency and problem-solving
+- **Algorithms & Data Structures**: Deep understanding of computational efficiency and problem-solving in multiple languages (C, Java, Python)
 
 ## 🌱 Current Focus
 - Exploring advanced machine learning & data science techniques
