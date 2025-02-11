@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Data Scientist & Python Developer
+# 👋 Hi I'm a Data Scientist & Python Developer
 
 I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
 
@@ -28,14 +28,11 @@ I'm passionate about transforming data into actionable insights and building rob
 
 ## 📊 GitHub Language Stats
 
-```javascript
-// Add this to your README.md
-// Make sure to update your GitHub username in the URL
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=dark" alt="Top Languages" />
 </div>
-```
+
 
 ## 🎯 Key Skills
 - **Data Analysis & Visualization**: Proficient in extracting insights from complex datasets using Python's data science stack
@@ -55,4 +52,4 @@ I'm passionate about transforming data into actionable insights and building rob
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](raimalrajagoal@gmail.com)
 
 ---
-⭐️ From [YOUR_USERNAME](https://github.com/Raimal-Raja)
+⭐️ From [Raimal-Raja](https://github.com/Raimal-Raja)
