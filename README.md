@@ -5,22 +5,22 @@
   <p align="center">
 <a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Web+Scraper;Full+Stack+Developer&center=true&width=500&height=50"></a>
 
-## 🐍 GitHub Contribution Snake
+## 🐛Github Magic Game
 
 <p align="center">
- <img src="https://github.com/Raimal-Raja/Raimal-Raja/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+ <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 <br>
 
 
-# <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" height=65/>  About Me:
+# <img src='.github/workflows/flyingcat.gif' height=65/>  About Me:
 
 I'm a Data Scientist & Python Developer!
 - 🔭 I'm currently working on transforming data into actionable insights
 - 🌱 I'm currently expanding my knowledge in advanced machine learning & data science techniques
 - 👯 I'm looking to collaborate with other data scientists and developers
 - 📊 Passionate about analyzing complex datasets and building robust applications
-- 🥅 Current Goal: Contributing to open-source data science projects
+- 🥅 2024-29 Goals: Contributing to open-source data science projects and enhancing my full-stack development skills
 - 💎 Let's connect if you're passionate about tech and data
 
 <p align="center">
@@ -121,7 +121,9 @@ I'm a Data Scientist & Python Developer!
 | [**Data Visualization**](https://github.com/Raimal-Raja/data-viz) | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/data-viz?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/data-viz/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/data-viz?style=flat&logo=github)](https://github.com/Raimal-Raja/data-viz/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/data-viz?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/data-viz/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/data-viz?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/data-viz/commits/) |
 | [**Django Applications**](https://github.com/Raimal-Raja/django-apps)    | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/django-apps?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/django-apps/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/django-apps?style=flat&logo=github)](https://github.com/Raimal-Raja/django-apps/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/django-apps?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/django-apps/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/django-apps?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/django-apps/commits/)       |
 
-## ⚡️GitHub Contributions
+[![An image of @raimal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raimal)](https://holopin.io/@raimal)
+
+## ⚡️Github Contributions
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
@@ -130,10 +132,10 @@ I'm a Data Scientist & Python Developer!
 	</a>
 </p>
 
-## 🚀GitHub Metrics
+## 🚀Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=dark" />
+	<img width="625em" src="https://github.com/Shoaib19/Shoaib19/blob/main/github-metrics.svg" />
 </p>
 
 <p align="center"> 
