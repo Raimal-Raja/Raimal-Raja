@@ -3,30 +3,31 @@
   </div>
 
   <p align="center">
-<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Web+Scraper;Full+Stack+Developer&center=true&width=500&height=50"></a>
+<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Web+Scraper;Algorithm+Expert&center=true&width=500&height=50"></a>
 
-## 🐍 GitHub Contribution Snake
+## 🐛 Github Magic Game
 
 <p align="center">
- <img src="https://github.com/Raimal-Raja/Raimal-Raja/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+ <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 <br>
 
 
-# <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" height=65/>  About Me:
+# <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY5OGI2MzE1YmQzOTVmNzAyNTVmZTM5MWJlYTBkYjZlNTY5YmQ5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LHZyixOnHwDDy/giphy.gif' height=65/>  About Me:
 
-I'm a Data Scientist & Python Developer!
-- 🔭 I'm currently working on transforming data into actionable insights
-- 🌱 I'm currently expanding my knowledge in advanced machine learning & data science techniques
-- 👯 I'm looking to collaborate with other data scientists and developers
-- 📊 Passionate about analyzing complex datasets and building robust applications
-- 🥅 Current Goal: Contributing to open-source data science projects
-- 💎 Let's connect if you're passionate about tech and data
+I'm a Data Scientist, Python Developer and ML Enthusiast!
+- 🔭 I'm currently working on advanced machine learning projects.
+- 🌱 I'm expanding my knowledge in deep learning and MLOps.
+- 👯 I'm looking to collaborate with other data scientists and developers.
+- 📊 Love to extract insights from complex datasets and build predictive models.
+- 🥅 2024-29 Goals: Contribute to open-source data science projects and advance in AI research.
+- 💎 If you're passionate about data and code, let's connect!
 
 <p align="center">
-<a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6"><img src="https://img.shields.io/badge/-Raimal%20Raja%20Kolhi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6"><img src="https://img.shields.io/badge/-Raimal%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:raimalrajagoal@gmail.com"><img src="https://img.shields.io/badge/-raimalrajagoal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Raimal-Raja"><img src="https://img.shields.io/badge/-@Raimal--Raja-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+<a href="https://github.com/Raimal-Raja"><img src="https://img.shields.io/badge/-@Raimal--Raja-181717?style=flat&logo=Github&logoColor=white"/></a>
+<a href="https://leetcode.com/Raimal-Raja/"><img src="https://img.shields.io/badge/-/Raimal--Raja-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <h2>Tech Stack</h2>
@@ -38,7 +39,7 @@ I'm a Data Scientist & Python Developer!
     </td>
 
   <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"  width="100">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  width="100">
     </td>
  <td align='center' width="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="100">
@@ -47,7 +48,7 @@ I'm a Data Scientist & Python Developer!
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="100">
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
     </td>
  
 </tr>
@@ -60,28 +61,28 @@ I'm a Data Scientist & Python Developer!
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="100">
     </td>
      <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
     </td>
 </tr>
  
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="90">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="80">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
     </td>
   <td align='center' width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
     </td>
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
@@ -90,19 +91,19 @@ I'm a Data Scientist & Python Developer!
 	
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"  width="90">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="140">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo.png" width="110">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
     </td>
  <td align='center' width="200">
-        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" width="150">
+        <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="150">
     </td>
      <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="120">
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
     </td>
     <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" width="140">
+        <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg">
     </td>
 </tr>
     
@@ -110,16 +111,25 @@ I'm a Data Scientist & Python Developer!
 
 |Stats />|Streak />|Languages />
 |---|---|---|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raimal-Raja&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Raimal-Raja&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raimal-Raja&theme=gruvbox)|
+|![](https://github-readme-stats.vercel.app/api?username=Raimal-Raja&theme=gruvbox&show_icons=true)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Raimal-Raja&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=gruvbox)|
  
- ## Data Science Projects
+ ## Personal Projects
 
 | Project :octocat:                                                                | Issues :bug:                                                                                                                                                                             | Open PRs :bell:                                                                                                                                                             | Closed PRs :fire:                                                                                                                                                                                                       | Last Commit 🚩                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**Machine Learning Models**](https://github.com/Raimal-Raja/ML-models)                  | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/ML-models?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/ML-models/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/ML-models?style=flat&logo=github)](https://github.com/Raimal-Raja/ML-models/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/ML-models?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/ML-models/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/ML-models?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/ML-models/commits/)                           |
-| [**Web Scraping Projects**](https://github.com/Raimal-Raja/web-scraping)                   | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/web-scraping?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/web-scraping/issues)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/web-scraping?style=flat&logo=github)](https://github.com/Raimal-Raja/web-scraping/pulls)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/web-scraping?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/web-scraping/pulls?q=is%3Apr+is%3Aclosed)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/web-scraping?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/web-scraping/commits/)                       |
-| [**Data Visualization**](https://github.com/Raimal-Raja/data-viz) | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/data-viz?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/data-viz/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/data-viz?style=flat&logo=github)](https://github.com/Raimal-Raja/data-viz/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/data-viz?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/data-viz/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/data-viz?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/data-viz/commits/) |
-| [**Django Applications**](https://github.com/Raimal-Raja/django-apps)    | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/django-apps?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/django-apps/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/django-apps?style=flat&logo=github)](https://github.com/Raimal-Raja/django-apps/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/django-apps?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/django-apps/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/django-apps?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/django-apps/commits/)       |
+| [**Data Science Algorithms**](https://github.com/Raimal-Raja/data-science-algorithms)                  | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/data-science-algorithms?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/data-science-algorithms/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/data-science-algorithms?style=flat&logo=github)](https://github.com/Raimal-Raja/data-science-algorithms/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/data-science-algorithms?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/data-science-algorithms/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/data-science-algorithms?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/data-science-algorithms/commits/)                           |
+| [**Web Scraping Projects**](https://github.com/Raimal-Raja/web-scraping-projects)                   | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/web-scraping-projects?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/web-scraping-projects/issues)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/web-scraping-projects?style=flat&logo=github)](https://github.com/Raimal-Raja/web-scraping-projects/pulls)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/web-scraping-projects?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/web-scraping-projects/pulls?q=is%3Apr+is%3Aclosed)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/web-scraping-projects?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/web-scraping-projects/commits/)                       |
+| [**Django Portfolio**](https://github.com/Raimal-Raja/django-portfolio) | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/django-portfolio?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/django-portfolio/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/django-portfolio?style=flat&logo=github)](https://github.com/Raimal-Raja/django-portfolio/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/django-portfolio?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/django-portfolio/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/django-portfolio?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/django-portfolio/commits/) |
+| [**ML Models Collection**](https://github.com/Raimal-Raja/ml-models)    | [![GitHub issues](https://img.shields.io/github/issues/Raimal-Raja/ml-models?color=green&logo=github&style=flat)](https://github.com/Raimal-Raja/ml-models/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Raimal-Raja/ml-models?style=flat&logo=github)](https://github.com/Raimal-Raja/ml-models/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/ml-models?style=flat&color=critical&logo=github)](https://github.com/Raimal-Raja/ml-models/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/Raimal-Raja/ml-models?color=blue&logo=github&style=flat)](https://github.com/Raimal-Raja/ml-models/commits/)       |
+
+## 🚀 Key Skills & Expertise
+
+- **Data Analysis & Visualization**: Extracting actionable insights from complex datasets using Pandas, NumPy, and visualization libraries
+- **Machine Learning**: Building predictive models with scikit-learn, TensorFlow, and custom algorithms
+- **Web Scraping**: Automating data collection with Selenium and BeautifulSoup for large-scale analysis
+- **Backend Development**: Creating scalable web applications with Django and RESTful APIs
+- **Database Design**: Optimizing data storage and retrieval across SQL and NoSQL databases
+- **Algorithm Design**: Implementing efficient solutions to complex computational problems
 
 ## ⚡️Github Contributions
 	
@@ -130,10 +140,10 @@ I'm a Data Scientist & Python Developer!
 	</a>
 </p>
 
-## 🚀GitHub Metrics
+## 🚀Github Metrics
 
 <p align="center">
-	<img width="625em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=dark" />
+	<img width="625em" src="https://github-metrics.vercel.app/api?username=Raimal-Raja" />
 </p>
 
 <p align="center"> 
@@ -152,3 +162,5 @@ I'm a Data Scientist & Python Developer!
   Views<br>
   <img src="https://profile-counter.glitch.me/Raimal-Raja/count.svg" />
 </p>
+
+⭐️ From [Raimal-Raja](https://github.com/Raimal-Raja)
