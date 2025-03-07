@@ -140,10 +140,8 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 	</a>
 </p>
 
-## 🚀Github Metrics
-
 <p align="center">
-	<img width="625em" src="https://github-metrics.vercel.app/api?username=Raimal-Raja" />
+	<img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raimal-Raja&theme=gruvbox" />
 </p>
 
 <p align="center"> 
