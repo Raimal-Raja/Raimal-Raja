@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+a+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <h1>👋 Hi there, I'm Raimal Raja</h1>
 </div>
+
+<p align="center">
+<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Web+Scraping+Expert" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
 I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
@@ -54,12 +58,16 @@ I'm passionate about transforming data into actionable insights and building rob
 
 ## <div align="center">📊 GitHub Stats</div>
 
-<div align="center">
-  <a href="https://github.com/Raimal-Raja">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </td>
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
 ## <div align="center">🎯 Key Skills</div>
 
