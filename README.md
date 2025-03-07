@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Raimal Raja</h1>
+    <h1> Hi there, I'm Raimal Raja 👋<a href="#"></h1>
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
 </p>
 
-## <div align="center">🔧 Technologies & Tools</div>
+## 🔧 Technologies & Tools
 
 <details open>
 <summary><b>Programming Languages</b></summary>
@@ -58,16 +58,9 @@ I'm passionate about transforming data into actionable insights and building rob
 
 ## <div align="center">📊 GitHub Stats</div>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    </td>
-    <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
-</table>
+|Stats />|Languages />|
+|---|---|
+|![](https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight)|
 
 ## <div align="center">🎯 Key Skills</div>
 
