@@ -9,8 +9,18 @@
 ## 🐍 GitHub Magic Game
 
 <p align="center">
- <img src="https://github.com/Raimal-Raja/Raimal-Raja/raw/output/github-contribution-grid-snake.svg" alt="snake">
+ <img src="https://github.com/Raimal-Raja/Raimal-Raja/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
+
+## <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
+
+I'm a Data Scientist, AI Enthusiast, and Software Developer!
+- 🔭 Currently working on AI-powered applications and automation projects.
+- 🌱 Learning advanced Deep Learning techniques and cloud computing.
+- 👯 Looking to collaborate with data-driven projects and open-source initiatives.
+- 📢 Passionate about mentoring and contributing to tech communities.
+- 🥅 2024 Goals: Build impactful AI solutions and expand open-source contributions.
+- 💎 If you love Data Science and AI, let's connect!
 
 ## 🚀 GitHub Metrics
 
@@ -56,6 +66,13 @@
     </td>
 </tr>
 </table>
+
+## 🚀 Personal Projects
+
+| Project | Issues | Open PRs | Closed PRs | Last Commit |
+|---------|--------|---------|-----------|-------------|
+| [**AI Web Scraper**](https://github.com/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/AI-Web-Scraper) |
+| [**Data Science Portfolio**](https://github.com/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/Data-Science-Portfolio) |
 
 ## 📫 Connect with Me
 <p align="center">
