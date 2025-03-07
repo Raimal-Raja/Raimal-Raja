@@ -1,127 +1,160 @@
-<div align="center">
-    <h1> Hi there, I'm Raimal Raja 👋<a href="#"></h1>
-</div>
+ <div align="center">
+    <h1> Hi there, I'm Shoaib Sabir 👋<a href="#"></h1>
+  </div>
+
+  <p align="center">
+<a href="https://github.com/Shoaib19"><img src="https://readme-typing-svg.herokuapp.com?lines=Ruby+on+Rails+Developer;Backend+Engineer;Git+Bash+zsh;Js+developer&center=true&width=500&height=50"></a>
+
+## 🐛Github Magic Game
 
 <p align="center">
-<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Web+Scraping+Expert" alt="Typing SVG" /></a>
+ <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
-
-<p align="center">
-I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
-</p>
-
-## 🔧 Technologies & Tools
-
-<details open>
-<summary><b>Programming Languages</b></summary>
 <br>
+
+
+# <img src='.github/workflows/flyingcat.gif' height=65/>  About Me:
+
+I'm a Rails Developer, Teacher and Researcher!
+- 🔭 I’m currently working as Backend Engineer.
+- 🌱 I’m currently expanding my knowledge in MERN, low level programing and devOps.
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 📢 Love to teach and inspire students.
+- 🥅 2024-29 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
+- 💎 If you are a Tech boy/girl let's get connected
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-</details>
+<a href="https://www.linkedin.com/in/shoaib-sabir-a3b88a212/"><img src="https://img.shields.io/badge/-Shoaib%20Sabir-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:shoaibsabir019@gmail.com"><img src="https://img.shields.io/badge/-shoaibsabir019@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/shoaibsabir099/"><img src="https://img.shields.io/badge/-@shoaibsabir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/Shoaib019/"><img src="https://img.shields.io/badge/-/shoaibsabir-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://stackoverflow.com/users/7203238/shoaib-sabir" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/7203238" /></a>
+ </p>
 
-<details open>
-<summary><b>Data Science Stack</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/-BeautifulSoup-43B02A?style=for-the-badge" alt="BeautifulSoup" />
-</p>
-</details>
+<h2>Tech Stack</h2>
 
-<details open>
-<summary><b>Frameworks</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</p>
-</details>
-
-<details open>
-<summary><b>Databases</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-</details>
-
-## <div align="center">📊 GitHub Stats</div>
-
-|Stats />|Languages />|
-|---|---|
-|![](https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight)|
-
-## <div align="center">🎯 Key Skills</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <b>Data Analysis & Visualization</b>
-      <br>Proficient in extracting insights from complex datasets using Python's data science stack
+<table width="80%">
+<tr>
+    <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="100">
     </td>
-    <td align="center" width="50%">
-      <b>Web Scraping</b>
-      <br>Expert in automation and data collection using Selenium and BeautifulSoup
+
+  <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg"  width="100">
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>Machine Learning</b>
-      <br>Experience with scikit-learn for predictive modeling and pattern recognition
+ <td align='center' width="150">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="100">
     </td>
-    <td align="center" width="50%">
-      <b>Backend Development</b>
-      <br>Building scalable applications with Django
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>Database Design</b>
-      <br>Strong foundation in database architecture and optimization
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align="center" width="50%">
-      <b>Algorithms & Data Structures</b>
-      <br>Deep understanding of computational efficiency and problem-solving in multiple languages
+ 
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
     </td>
-  </tr>
+    <td align='center' width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="100" height="100">
+    </td>
+    <td align='center' width="200">
+        <img src="https://camo.githubusercontent.com/2b97405ead6d87cffc71126648f74f034ab9b77525453aaac85ca79248532854/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67" >
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+    </td>
+  <td align='center' width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+    </td>
+</tr>
+	
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="150">
+    </td>
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="90">
+    </td>
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
+    </td>
+</tr>
+    
 </table>
 
-## <div align="center">🌱 Current Focus</div>
+|Stats />|Streak />|Languages />
+|---|---|---|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shoaib19&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Shoaib19&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shoaib19&theme=gruvbox)|
+ 
+ ## Personal Projects
 
+| Project :octocat:                                                                | Issues :bug:                                                                                                                                                                             | Open PRs :bell:                                                                                                                                                             | Closed PRs :fire:                                                                                                                                                                                                       | Last Commit 🚩                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Leetcode Practice**](https://github.com/Shoaib19/Leetcode)                  | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/Leetcode?color=green&logo=github&style=flat)](https://github.com/Shoaib19/Leetcode/issues)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/Leetcode?style=flat&logo=github)](https://github.com/Shoaib19/Leetcode/pulls)                           | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/Leetcode?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/Leetcode/pulls?q=is%3Apr+is%3Aclosed)                           | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/Leetcode?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/Leetcode/commits/)                           |
+| [**Github Profile**](https://github.com/Shoaib19/Shoaib19)                   | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/Shoaib19?color=green&logo=github&style=flat)](https://github.com/Shoaib19/Shoaib19/issues)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/Shoaib19?style=flat&logo=github)](https://github.com/Shoaib19/Shoaib19/pulls)                       | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/Shoaib19?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/Shoaib19/pulls?q=is%3Apr+is%3Aclosed)                       | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/Shoaib19?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/Shoaib19/commits/)                       |
+| [**Devicon**](https://github.com/Shoaib19/devicon) | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/devicon?color=green&logo=github&style=flat)](https://github.com/Shoaib19/devicon/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/devicon?style=flat&logo=github)](https://github.com/Shoaib19/devicon/pulls) | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/devicon?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/devicon/pulls?q=is%3Apr+is%3Aclosed) | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/devicon?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/devicon/commits/) |
+| [**MyBlogs**](https://github.com/Shoaib19/tech-blogs)    | [![GitHub issues](https://img.shields.io/github/issues/Shoaib19/tech-blogs?color=green&logo=github&style=flat)](https://github.com/Shoaib19/tech-blogs/issues)       | [![GitHub PRs](https://img.shields.io/github/issues-pr/Shoaib19/tech-blogs?style=flat&logo=github)](https://github.com/Shoaib19/tech-blogs/pulls)       | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/Shoaib19/tech-blogs?style=flat&color=critical&logo=github)](https://github.com/Shoaib19/tech-blogs/pulls?q=is%3Apr+is%3Aclosed)     | [![GitHub last commit](https://img.shields.io/github/last-commit/Shoaib19/tech-blogs?color=blue&logo=github&style=flat)](https://github.com/Shoaib19/tech-blogs/commits/)       |
+
+[![An image of @shoaib019's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shoaib019)](https://holopin.io/@shoaib019)
+
+## ⚡️Github Contributions
+	
+<h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
-  <b>🔍 Exploring advanced machine learning & data science techniques</b><br>
-  <b>🤝 Contributing to open-source data science projects</b><br>
-  <b>💻 Enhancing my full-stack development skills</b>
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
 </p>
 
-## <div align="center">📫 How to Reach Me</div>
+## 🚀Github Metrics
 
 <p align="center">
-  <a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:raimalrajagoal@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+	<img width="625em" src="https://github.com/Shoaib19/Shoaib19/blob/main/github-metrics.svg" />
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raimal-Raja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<p align="center"> 
+ <a href="https://github.com/Shoaib19/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shoaib19&theme=gruvbox&no-frame=true&column=-1" alt="trophy">
+ </a>
+</p>
 
-<div align="center">
-  
-  ⭐️ From [Raimal-Raja](https://github.com/Raimal-Raja)
-  
-</div>
+<p align="center">
+ <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Readme Quotes">
+ </a>
+</p>
+
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/Shoaib19/count.svg" />
+</p>
+
