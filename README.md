@@ -1,84 +1,126 @@
 <div align="center">
-    <h1> Hi there, I'm Raimal Raja 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+a+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Python+Developer;Web+Scraping+Expert;Machine+Learning+Enthusiast&center=true&width=500&height=50"></a>
+I'm passionate about transforming data into actionable insights and building robust applications. With expertise in both data science and software development, I bridge the gap between analytics and production-ready solutions.
 </p>
 
-## 🐍 GitHub Magic Game
+## <div align="center">🔧 Technologies & Tools</div>
 
+<details open>
+<summary><b>Programming Languages</b></summary>
+<br>
 <p align="center">
- <img src="https://github.com/Raimal-Raja/Raimal-Raja/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
+</details>
 
-## 🚀 GitHub Metrics
-
+<details open>
+<summary><b>Data Science Stack</b></summary>
+<br>
 <p align="center">
-  <img src="https://github.com/Raimal-Raja/Raimal-Raja/blob/main/github-metrics.svg" alt="GitHub Metrics">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/-BeautifulSoup-43B02A?style=for-the-badge" alt="BeautifulSoup" />
 </p>
+</details>
 
-## 📊 GitHub Stats
-
+<details open>
+<summary><b>Frameworks</b></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raimal-Raja&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raimal-Raja&theme=gruvbox" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
+</details>
 
-## ⚡️ GitHub Contributions
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
+<details open>
+<summary><b>Databases</b></summary>
+<br>
 <p align="center">
-	<a href="https://raw.githubusercontent.com/Raimal-Raja/Raimal-Raja/main/profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="https://raw.githubusercontent.com/Raimal-Raja/Raimal-Raja/main/profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
+  <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
+</details>
 
-## <img src='.github/workflows/flyingcat.gif' height=65/> About Me:
+## <div align="center">📊 GitHub Stats</div>
 
-I'm a Data Scientist, AI Enthusiast, and Software Developer!
-- 🔭 Currently working on AI-powered applications and automation projects.
-- 🌱 Learning advanced Deep Learning techniques and cloud computing.
-- 👯 Looking to collaborate with data-driven projects and open-source initiatives.
-- 📢 Passionate about mentoring and contributing to tech communities.
-- 🥅 2024 Goals: Build impactful AI solutions and expand open-source contributions.
-- 💎 If you love Data Science and AI, let's connect!
+<div align="center">
+  <a href="https://github.com/Raimal-Raja">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
 
-## 🚀 Personal Projects
+## <div align="center">🎯 Key Skills</div>
 
-| Project | Issues | Open PRs | Closed PRs | Last Commit |
-|---------|--------|---------|-----------|-------------|
-| [**AI Web Scraper**](https://github.com/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/AI-Web-Scraper) |
-| [**Data Science Portfolio**](https://github.com/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/Data-Science-Portfolio) |
-
-## 🛠 Tech Stack
-
-<table width="80%">
-<tr>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>Data Analysis & Visualization</b>
+      <br>Proficient in extracting insights from complex datasets using Python's data science stack
     </td>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="100">
+    <td align="center" width="50%">
+      <b>Web Scraping</b>
+      <br>Expert in automation and data collection using Selenium and BeautifulSoup
     </td>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Machine Learning</b>
+      <br>Experience with scikit-learn for predictive modeling and pattern recognition
     </td>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="100">
+    <td align="center" width="50%">
+      <b>Backend Development</b>
+      <br>Building scalable applications with Django
     </td>
-    <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="100">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Database Design</b>
+      <br>Strong foundation in database architecture and optimization
     </td>
-</tr>
+    <td align="center" width="50%">
+      <b>Algorithms & Data Structures</b>
+      <br>Deep understanding of computational efficiency and problem-solving in multiple languages
+    </td>
+  </tr>
 </table>
 
-## 📫 Connect with Me
+## <div align="center">🌱 Current Focus</div>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/raimal-raja-kolhi-9422351b6/"><img src="https://img.shields.io/badge/-Raimal%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:raimalrajagoal@gmail.com"><img src="https://img.shields.io/badge/-raimalrajagoal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <b>🔍 Exploring advanced machine learning & data science techniques</b><br>
+  <b>🤝 Contributing to open-source data science projects</b><br>
+  <b>💻 Enhancing my full-stack development skills</b>
 </p>
 
----
-⭐️ From [Raimal-Raja](https://github.com/Raimal-Raja)
+## <div align="center">📫 How to Reach Me</div>
+
+<p align="center">
+  <a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:raimalrajagoal@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raimal-Raja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  ⭐️ From [Raimal-Raja](https://github.com/Raimal-Raja)
+  
+</div>
