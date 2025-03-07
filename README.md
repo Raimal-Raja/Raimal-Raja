@@ -57,6 +57,21 @@
 | [**AI Web Scraper**](https://github.com/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/AI-Web-Scraper) |
 | [**Data Science Portfolio**](https://github.com/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/Data-Science-Portfolio) |
 
+## ⚡️ GitHub Contributions
+
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
+
+## 🚀 GitHub Metrics
+
+<p align="center">
+	<img width="625em" src="https://github.com/Raimal-Raja/Raimal-Raja/blob/main/github-metrics.svg" />
+</p>
+
 ## 📫 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/raimal-raja-kolhi-9422351b6/"><img src="https://img.shields.io/badge/-Raimal%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
