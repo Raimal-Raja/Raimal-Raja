@@ -9,16 +9,31 @@
 ## 🐍 GitHub Magic Game
 
 <p align="center">
- <img src="https://github.com/Raimal-Raja/Raimal-Raja/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></p>
+ <img src="https://github.com/Raimal-Raja/Raimal-Raja/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
-# <img src=".github/workflows/flyingcat.gif" height=65/>  About Me:
+## 🚀 GitHub Metrics
 
-- 🔭 I’m currently working on Machine Learning, Web Scraping, and AI-driven applications.
-- 🌱 Exploring Deep Learning, NLP, and Cloud Technologies.
-- 👯 Looking to collaborate on open-source projects related to AI and automation.
-- 📢 Passionate about teaching and mentoring aspiring developers.
-- 🥅 2024 Goals: Build scalable AI-based solutions and contribute to impactful projects.
-- 💎 Let’s connect and discuss all things AI and Data Science!
+<p align="center">
+  <img src="https://github.com/Raimal-Raja/Raimal-Raja/blob/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raimal-Raja&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raimal-Raja&theme=gruvbox" alt="Top Languages" />
+</p>
+
+## ⚡️ GitHub Contributions
+
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
 
 ## 🛠 Tech Stack
 
@@ -41,36 +56,6 @@
     </td>
 </tr>
 </table>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raimal-Raja&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raimal-Raja&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raimal-Raja&theme=gruvbox" alt="Top Languages" />
-</div>
-
-## 🚀 Personal Projects
-
-| Project | Issues | Open PRs | Closed PRs | Last Commit |
-|---------|--------|---------|-----------|-------------|
-| [**AI Web Scraper**](https://github.com/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/AI-Web-Scraper) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/AI-Web-Scraper) |
-| [**Data Science Portfolio**](https://github.com/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/issues-pr-closed/Raimal-Raja/Data-Science-Portfolio) | ![](https://img.shields.io/github/last-commit/Raimal-Raja/Data-Science-Portfolio) |
-
-## ⚡️ GitHub Contributions
-
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
-
-## 🚀 GitHub Metrics
-
-<p align="center">
-	<img width="625em" src="https://github.com/Raimal-Raja/Raimal-Raja/blob/main/github-metrics.svg" />
-</p>
 
 ## 📫 Connect with Me
 <p align="center">
