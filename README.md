@@ -27,7 +27,7 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 <a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6"><img src="https://img.shields.io/badge/-Raimal%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:raimalrajagoal@gmail.com"><img src="https://img.shields.io/badge/-raimalrajagoal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Raimal-Raja"><img src="https://img.shields.io/badge/-@Raimal--Raja-181717?style=flat&logo=Github&logoColor=white"/></a>
-<a href="https://leetcode.com/Raimal-Raja/"><img src="https://img.shields.io/badge/-/Raimal--Raja-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/raimal_raja/"><img src="https://img.shields.io/badge/-/Raimal--Raja-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <h2>Tech Stack</h2>
