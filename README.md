@@ -131,6 +131,8 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 	</a>
 </p>
 
+[![An image of @raimalraja's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raimalraja)](https://holopin.io/@raimalraja)
+
 <p align="center">
 	<img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raimal-Raja&theme=gruvbox" />
 </p>
