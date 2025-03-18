@@ -3,7 +3,7 @@
   </div>
 	    
   <p align="center">
-<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Python+Developer;Machine+Learning+Engineer;Web+Scraper;Algorithm+Expert&center=true&width=500&height=50"></a>
+<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Machine+Learning+Engineer;Web+Scraper;&center=true&width=500&height=50"></a>
 
 ## 🐛 Github Magic Game
 
