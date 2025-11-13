@@ -66,9 +66,7 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
      <td align='center' width="200">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
     </td>
-    <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-    </td>
+
 </tr>
  
 <tr>
@@ -93,18 +91,14 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
     <td align='center' width="200">
         <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="140">
     </td>
-    <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
-    </td>
+
  <td align='center' width="200">
         <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="150">
     </td>
      <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
     </td>
-    <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg">
-    </td>
+
 </tr>
     
 </table>
