@@ -32,11 +32,16 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 ## 🏢 Organizations
 
 <p align="center">
-<a href="https://signdevops.com/"><img src="https://img.shields.io/badge/SignDevOps-ML%20Engineer-0e75b6?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI+PHBhdGggZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNU0yIDEybDEwIDUgMTAtNSIvPjwvc3ZnPg=="/></a>
-<img src="https://img.shields.io/badge/Kevi--Tech-Data%20Scientist-2b2b2b?style=flat"/>
+<a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://avatars.githubusercontent.com/u/274136590?s=80&v=4" width="70" height="70" style="border-radius:50%" title="Raimal-Raja-VScode-Extensions"/></a>&nbsp;&nbsp;
+<a href="https://github.com/CoderAI-App"><img src="https://avatars.githubusercontent.com/u/276264973?s=80&v=4" width="70" height="70" style="border-radius:50%" title="CoderAI-App"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://avatars.githubusercontent.com/u/287360123?s=80&v=4" width="70" height="70" style="border-radius:50%" title="Mentora-Classroom-to-Career"/></a>
 </p>
 
-*Currently working remotely as an ML Engineer / Data Scientist at both organizations. (If either has a GitHub Org page, send me the handle and I'll link `@org` directly and pull it into your GitHub profile's Organizations sidebar too.)*
+<p align="center">
+<a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://img.shields.io/badge/@Raimal--Raja--VScode--Extensions-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/CoderAI-App"><img src="https://img.shields.io/badge/@CoderAI--App-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://img.shields.io/badge/@Mentora--Classroom--to--Career-181717?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 <h2>Tech Stack</h2>
 <table width="80%">
@@ -108,7 +113,7 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 
 |Stats|Streak|Languages|
 |---|---|---|
-|![](https://github-readme-stats.vercel.app/api?username=Raimal-Raja&theme=gruvbox&show_icons=true)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Raimal-Raja&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=gruvbox)|
+|![](https://github-stats-extended.vercel.app/api?username=Raimal-Raja&theme=gruvbox&show_icons=true)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Raimal-Raja&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-stats-extended.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=gruvbox)|
 
 ## 🚀 Key Skills & Expertise
 - **Data Analysis & Visualization**: Extracting actionable insights from complex datasets using Pandas, NumPy, and visualization libraries
