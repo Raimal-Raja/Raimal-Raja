@@ -1,17 +1,16 @@
 <div align="center">
-    <h1> Hi there, I'm Raimal Raja 👋<a href="#"></h1>
-  </div>
-	    
-  <p align="center">
-<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Machine+Learning+Engineer;Web+Scraper;&center=true&width=500&height=50"></a>
-
-## 🐛 Github Magic Game
+    <h1>Hi there, I'm Raimal Raja 👋</h1>
+</div>
 
 <p align="center">
- <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+<a href="https://github.com/Raimal-Raja"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Machine+Learning+Engineer;Web+Scraper;&center=true&width=500&height=50"></a>
+</p>
+
+## 🐛 Github Magic Game
+<p align="center">
+ <img src="https://github.com/Shoaib19/Shoaib19/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
 </p>
 <br>
-
 
 # <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY5OGI2MzE1YmQzOTVmNzAyNTVmZTM5MWJlYTBkYjZlNTY5YmQ5MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LHZyixOnHwDDy/giphy.gif' height=65/>  About Me:
 
@@ -31,21 +30,19 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 </p>
 
 <h2>Tech Stack</h2>
-
 <table width="80%">
 <tr>
     <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100">
     </td>
-
   <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"  width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="100">
     </td>
  <td align='center' width="150">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
@@ -61,20 +58,19 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="100">
     </td>
      <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
+        <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/javascript/javascript.svg" width="90">
     </td>
-
 </tr>
  
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="100">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
@@ -83,22 +79,20 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
     </td>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="100">
     </td>
 </tr>
 	
 <tr>
     <td align='center' width="200">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="140">
     </td>
-
  <td align='center' width="200">
-        <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" width="150">
+        <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/scikit-learn.svg" width="150">
     </td>
      <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
     </td>
-
 </tr>
     
 </table>
@@ -108,7 +102,6 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 |![](https://github-readme-stats.vercel.app/api?username=Raimal-Raja&theme=gruvbox&show_icons=true)|[![GitHub Streak](https://streak-stats.demolab.com/?user=Raimal-Raja&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raimal-Raja&layout=compact&theme=gruvbox)|
 
 ## 🚀 Key Skills & Expertise
-
 - **Data Analysis & Visualization**: Extracting actionable insights from complex datasets using Pandas, NumPy, and visualization libraries
 - **Machine Learning**: Building predictive models with scikit-learn, TensorFlow, and custom algorithms
 - **Web Scraping**: Automating data collection with Selenium and BeautifulSoup for large-scale analysis
@@ -120,8 +113,8 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 	
 <h4 align="center">Isometric view of contributions in the last year</h4>
 <p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	<a href="https://github.com/Raimal-Raja/Raimal-Raja/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="https://github.com/Raimal-Raja/Raimal-Raja/raw/main/profile-3d-contrib/profile-night-rainbow.svg">
 	</a>
 </p>
 
@@ -130,22 +123,19 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 <p align="center">
 	<img width="625em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raimal-Raja&theme=gruvbox" />
 </p>
-
 <p align="center"> 
  <a href="https://github.com/Raimal-Raja/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Raimal-Raja&theme=gruvbox&no-frame=true&column=-1" alt="trophy">
  </a>
 </p>
-
 <p align="center">
  <a href="https://github.com/piyushsuthar/github-readme-quotes">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" alt="Readme Quotes">
  </a>
 </p>
-
 <p align="center"> 
   Views<br>
-  <img src="https://profile-counter.glitch.me/Raimal-Raja/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Raimal-Raja&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ⭐️ From [Raimal-Raja](https://github.com/Raimal-Raja)
