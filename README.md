@@ -36,7 +36,7 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 <a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://avatars.githubusercontent.com/u/274136590?s=80&v=4" width="70" height="70" style="border-radius:50%" title="Raimal-Raja-VScode-Extensions"/></a>&nbsp;&nbsp;
 <a href="https://github.com/CoderAI-App"><img src="https://avatars.githubusercontent.com/u/276264973?s=80&v=4" width="70" height="70" style="border-radius:50%" title="CoderAI-App"/></a>&nbsp;&nbsp;
 <a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://avatars.githubusercontent.com/u/287360123?s=80&v=4" width="70" height="70" style="border-radius:50%" title="Mentora-Classroom-to-Career"/></a>
-<a href="https://github.com/IBM-SkillsBuild-AI-Builders-Challenge"><img src="https://github.com/Raimal-Raja/Raimal-Raja/blob/main/Screenshot%202026-07-28%20014421.png" width="70" height="70" style="border-radius:50%" title="IBM SkillsBuild AI Builders Challenge"/></a>
+<a href="https://github.com/IBM-SkillsBuild-AI-Builders-Challenge"><img src="https://img.shields.io/badge/@IBM--SkillsBuild--AI--Builders--Challenge-181717?style=flat&logo=github&logoColor=white" width="70" height="70" style="border-radius:50%" title="IBM SkillsBuild AI Builders Challenge"/></a>
 </p>
 
 <p align="center">
