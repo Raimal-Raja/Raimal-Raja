@@ -42,7 +42,7 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 <p align="center">
 <a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://img.shields.io/badge/@Raimal--Raja--VScode--Extensions-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://github.com/CoderAI-App"><img src="https://img.shields.io/badge/@CoderAI--App-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://img.shields.io/badge/@Mentora--Classroom--to--Career-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://img.shields.io/badge/@IBM-SkillsBuild-AI-Builders-Challenge?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ## 🎓 Oracle Certifications
