@@ -22,25 +22,43 @@ I'm a Data Scientist, Python Developer and ML Enthusiast!
 - 🎓 Final year BS Computer Science student at University of Sindh, Laar Campus, Badin — building **Mentora**, an AI learning platform for Pakistani students, as my FYP.
 - 💎 If you're passionate about data and code, let's connect!
 
-<p align="center">
-<a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6"><img src="https://img.shields.io/badge/-Raimal%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;<a href="mailto:raimalrajagoal@gmail.com"><img src="https://img.shields.io/badge/-raimalrajagoal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp;<a href="https://github.com/Raimal-Raja"><img src="https://img.shields.io/badge/-@Raimal--Raja-181717?style=flat&logo=Github&logoColor=white"/></a>&nbsp;<a href="https://leetcode.com/u/raimal_raja/"><img src="https://img.shields.io/badge/-/Raimal--Raja-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>&nbsp;<a href="https://www.facebook.com/RaimalRajaKolhi.0/"><img src="https://img.shields.io/badge/-RaimalRajaKolhi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center"><a href="https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6"><img src="https://img.shields.io/badge/-Raimal%20Raja-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></td>
+<td align="center"><a href="mailto:raimalrajagoal@gmail.com"><img src="https://img.shields.io/badge/-raimalrajagoal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/Raimal-Raja"><img src="https://img.shields.io/badge/-@Raimal--Raja-181717?style=flat&logo=Github&logoColor=white"/></a></td>
+<td align="center"><a href="https://leetcode.com/u/raimal_raja/"><img src="https://img.shields.io/badge/-/Raimal--Raja-e8b519?style=flat&logo=leetcode&logoColor=black"/></a></td>
+<td align="center"><a href="https://www.facebook.com/RaimalRajaKolhi.0/"><img src="https://img.shields.io/badge/-RaimalRajaKolhi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a></td>
+</tr>
+</table>
 
 ## 🏢 Organizations
 
-<p align="center">
-<a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://avatars.githubusercontent.com/u/274136590?s=80&v=4" width="70" height="70" title="Raimal-Raja-VScode-Extensions"/></a>&nbsp;&nbsp;<a href="https://github.com/CoderAI-App"><img src="https://avatars.githubusercontent.com/u/276264973?s=80&v=4" width="70" height="70" title="CoderAI-App"/></a>&nbsp;&nbsp;<a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://avatars.githubusercontent.com/u/287360123?s=80&v=4" width="70" height="70" title="Mentora-Classroom-to-Career"/></a>&nbsp;&nbsp;<a href="https://github.com/IBM-SkillsBuild-AI-Builders-Challenge"><img src="https://avatars.githubusercontent.com/u/278192647?s=80&v=4" width="70" height="70" title="IBM SkillsBuild AI Builders Challenge"/></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://img.shields.io/badge/@Raimal--Raja--VScode--Extensions-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;<a href="https://github.com/CoderAI-App"><img src="https://img.shields.io/badge/@CoderAI--App-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;<a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://img.shields.io/badge/@Mentora--Classroom--to--Career-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;<a href="https://github.com/IBM-SkillsBuild-AI-Builders-Challenge"><img src="https://img.shields.io/badge/@IBM--SkillsBuild--AI--Builders--Challenge-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center"><a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://avatars.githubusercontent.com/u/274136590?s=80&v=4" width="60" height="60"/></a></td>
+<td align="center"><a href="https://github.com/CoderAI-App"><img src="https://avatars.githubusercontent.com/u/276264973?s=80&v=4" width="60" height="60"/></a></td>
+<td align="center"><a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://avatars.githubusercontent.com/u/287360123?s=80&v=4" width="60" height="60"/></a></td>
+<td align="center"><a href="https://github.com/IBM-SkillsBuild-AI-Builders-Challenge"><img src="https://avatars.githubusercontent.com/u/278192647?s=80&v=4" width="60" height="60"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Raimal-Raja-VScode-Extensions"><img src="https://img.shields.io/badge/@Raimal--Raja--VScode--Extensions-181717?style=flat&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/CoderAI-App"><img src="https://img.shields.io/badge/@CoderAI--App-181717?style=flat&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/Mentora-Classroom-to-Career"><img src="https://img.shields.io/badge/@Mentora--Classroom--to--Career-181717?style=flat&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/IBM-SkillsBuild-AI-Builders-Challenge"><img src="https://img.shields.io/badge/@IBM--SkillsBuild--AI--Builders--Challenge-181717?style=flat&logo=github&logoColor=white"/></a></td>
+</tr>
+</table>
 
 ## 🎓 Oracle Certifications
 
-<p align="center">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=416BF0C5C179D9B5CFCA816DD17975E9C4E085A594BBE4553983E4FA31E9A76C"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png" width="150" title="OCI 2025 Certified Data Science Professional"/></a>&nbsp;&nbsp;<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A818F4842712F2595DB7451028AAA8029C3BF66A38874BFCEB78A5EC68BCC9F1"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" width="150" title="OCI 2025 Certified Generative AI Professional"/></a>&nbsp;&nbsp;<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=86EFE769646107BE1F9FCB8D1F86B78E42F23D8FC07F942E2C28BD632C5A6334"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="150" title="OCI 2025 Certified AI Foundations Associate"/></a>&nbsp;&nbsp;<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6B4BB905D1BDD0B0715CFA6DF4BE0B8AC9C3EE07C4CF113F5312E6802D7EAC6A"><img src="https://brm-workforce.oracle.com/pdf/certview/images/AAI26OFA.png" width="150" title="Agentic AI Certified Foundations Associate"/></a>
-</p>
+<table align="center">
+<tr>
+<td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=416BF0C5C179D9B5CFCA816DD17975E9C4E085A594BBE4553983E4FA31E9A76C"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25DSOCP.png" width="120"/></a></td>
+<td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A818F4842712F2595DB7451028AAA8029C3BF66A38874BFCEB78A5EC68BCC9F1"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" width="120"/></a></td>
+<td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=86EFE769646107BE1F9FCB8D1F86B78E42F23D8FC07F942E2C28BD632C5A6334"><img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="120"/></a></td>
+<td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6B4BB905D1BDD0B0715CFA6DF4BE0B8AC9C3EE07C4CF113F5312E6802D7EAC6A"><img src="https://brm-workforce.oracle.com/pdf/certview/images/AAI26OFA.png" width="120"/></a></td>
+</tr>
+</table>
 
 | Certification | Issued | Expires | Verify |
 |---|---|---|---|
