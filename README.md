@@ -58,3 +58,38 @@ I’m building **Mentora**, an AI learning platform for Pakistani students, as m
 **[LinkedIn](https://pk.linkedin.com/in/raimal-raja-kolhi-9422351b6)** · **[Email](mailto:raimalrajagoal@gmail.com)** · **[Portfolio](https://coder.kvtech.net)**
 
 <sub>Open to collaboration on machine learning, NLP, and useful AI applications.</sub>
+
+---
+
+## Repository guide
+
+### Contents
+
+- [README.md](README.md)
+- [Screenshot 2026-07-28 014421.png](Screenshot%202026-07-28%20014421.png)
+- [assets](assets)
+- [github-metrics.svg](github-metrics.svg)
+- [profile-3d-contrib](profile-3d-contrib)
+
+### Getting started
+
+```bash
+git clone https://github.com/Raimal-Raja/Raimal-Raja.git
+cd Raimal-Raja
+```
+
+Browse the folders and linked notes above. This repository is a resource collection or documentation starter rather than a runnable application.
+
+### Configuration and limitations
+
+### Validation
+
+Reviewed on 2026-10-08. Repository structure and documentation were reviewed. No application runtime, training job, or platform-specific build was executed.
+
+### Contributions
+
+Describe the issue, reproduction steps, environment, and expected behavior when proposing a change. Keep generated environments, credentials, and unnecessary build artifacts out of new commits.
+
+### License
+
+No top-level license file was found during this review.
